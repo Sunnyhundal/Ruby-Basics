@@ -45,3 +45,5 @@ puts "Hello, my name is #{name}"
 
 # the #{} is called string interpolation. It allows us to insert the value of a variable into a string.
 
+# note: You have probably noticed that only some of the code is highlighted. This is because some of the code is a comment. A comment is a note that is written in the code but is not executed. Comments are used to explain what the code is doing. Comments are written using the # symbol.
+
