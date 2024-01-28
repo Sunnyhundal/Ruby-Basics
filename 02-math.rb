@@ -39,7 +39,6 @@ puts 3 / 3
 
 puts "Complex math expressions."
 
-
 puts 1 + 2 * 3
 puts (1 + 2) * 3
 puts 1 + 2 / 3
